@@ -16,7 +16,7 @@ const assignment = {};
 function sumOfNumbers(arrayOfNumbers) {
     var sum = 0;
     for(const elem of arrayOfNumbers){
-     sum =+ elem;
+     sum += elem;
     }
     return sum;
 }

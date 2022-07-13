@@ -1,6 +1,6 @@
 {
   "name": "assignment-02-template",
-  "version": "1.0.0",
+  "version": "1.22.19",
   "main": "index.js",
   "repository": "https://github.com/exam-01-practice/assignment-02-template",
   "author": "Charles Opute Odili <chaluwa@gmail.com>",
@@ -10,5 +10,6 @@
   },
   "dependencies": {
     "jest": "^28.1.2"
-  }
+  },
+  "description": "the best"
 }
